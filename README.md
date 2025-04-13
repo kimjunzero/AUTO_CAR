@@ -4,6 +4,8 @@ Atmega128A를 활용한 자율 주행 자동차
 
 재작기간 : 2025-03-21 ~ 2025-03-24
 
+동영상 : https://youtube.com/shorts/40mN71qHx1w
+
 ---
 
 1. FSM
