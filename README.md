@@ -15,15 +15,16 @@ Atmega128A를 활용한 자율 주행 자동차
 
 # 1. FSM
 
-![image.png](attachment:5e509381-d48b-4392-921f-52f36d99c550:image.png)
+<img width="395" alt="0" src="https://github.com/user-attachments/assets/b8b83c0b-5ef9-44e1-91f4-8b77058fc725" />
 
 ---
 
 # 2. 회로도
 
-![image.png](attachment:d3a91de6-1dda-4248-be01-c4624d8c1401:image.png)
+<img width="383" alt="1" src="https://github.com/user-attachments/assets/42c2b3e5-1750-4432-a730-42819b210775" />
 
-![image.png](attachment:2c9d0b0d-abad-43e3-8829-dc8f00ef3c49:image.png)
+
+<img width="382" alt="2" src="https://github.com/user-attachments/assets/0e67b0bd-75c3-4b06-97ae-73971c91b8b1" />
 
 ---
 
